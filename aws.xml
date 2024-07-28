@@ -21,13 +21,15 @@
   <component name="aws">
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
-    <option name="telemetryEnabled" value="false" />
+    <option name="telemetryEnabled" value="true" />
   </component>
   <component name="codewhispererSettings">
     <option name="value">
       <map>
         <entry key="IsIncludeCodeWithReference" value="true" />
         <entry key="OptInSendingMetric" value="false" />
+        <entry key="IsProjectContextEnabled" value="true" />
+        <entry key="IsProjectContextGpu" value="true" />
       </map>
     </option>
   </component>
