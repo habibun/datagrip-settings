@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.pls</mask>
+    <mask>*.ddl</mask>
+    <mask>*.pks</mask>
+    <mask>*.pck</mask>
+    <mask>*.pkb</mask>
+    <mask>*.vw</mask>
+    <mask>*.trg</mask>
+    <mask>*.prc</mask>
+    <mask>*.fnc</mask>
+    <mask>*.tps</mask>
+    <mask>*.tpb</mask>
+    <mask>*.sql</mask>
+  </component>
+</application>
