@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings2">
-    <option name="lastVersion" value="2.9.0" />
+    <option name="lastVersion" value="2.9.1" />
     <llmClientConfigurations>
       <OpenAiClientConfiguration id="f0f8e32d-4551-42ee-9db4-1cbde5d665a6" />
     </llmClientConfigurations>
