@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/datagrip/sql/biznet-dev" value="true" />
+        <entry key="$USER_HOME$/Documents/datagrip/sql/gente-dev" value="true" />
+        <entry key="$USER_HOME$/Documents/datagrip/sql/gente-upgrade-dev" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/datagrip/sql" />
+      </list>
+    </option>
+  </component>
+</application>
