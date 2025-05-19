@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="10">
+    <option name="page-size-updated-timestamp" value="1747634079308" />
     <option name="paging-display-mode" value="DATA_EDITOR_TOOLBAR" />
     <text-mode>
       <parameter-patterns>
