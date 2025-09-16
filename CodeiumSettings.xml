@@ -1,9 +1,13 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="allowCascadeAccessGitignoreFiles" value="true" />
+    <option name="autocompleteSpeed" value="AUTOCOMPLETE_SPEED_DEFAULT" />
+    <option name="cascadeAutoExecutionPolicy" value="2" />
     <option name="cascadeOnboardingCompleted" value="true" />
-    <option name="chatZoomLevel" value="170" />
+    <option name="chatZoomLevel" value="150" />
     <option name="firstInstall" value="false" />
     <option name="hasShownPreReleaseNotification" value="true" />
+    <option name="openExplainProblemInCurrentConversation" value="true" />
     <option name="showCascadeWelcomePage" value="false" />
   </component>
 </application>
