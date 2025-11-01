@@ -1,5 +1,6 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "",
   "layouts": {
     "Custom": {
       "v2": [
@@ -8,20 +9,6 @@
           "order": 0,
           "contentUiType": "COMBO",
           "weight": 0.25
-        },
-        {
-          "id": "Project",
-          "order": 0,
-          "anchor": "RIGHT",
-          "contentUiType": "COMBO",
-          "weight": 0.25
-        },
-        {
-          "id": "Structure",
-          "order": 1,
-          "anchor": "RIGHT",
-          "weight": 0.25,
-          "isSplit": true
         },
         {
           "id": "Version Control",
@@ -49,6 +36,20 @@
           "order": 4,
           "anchor": "BOTTOM",
           "weight": 0.4
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25,
+          "isSplit": true
         }
       ]
     }
