@@ -1,0 +1,6 @@
+<application>
+  <component name="com.codeium.intellij.utilities.ExtensionStorage">
+    <option name="hasShownNewCompletionApiNotification" value="true" />
+    <option name="lastChangelogVersionShown" value="2.10.0" />
+  </component>
+</application>
