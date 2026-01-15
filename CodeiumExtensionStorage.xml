@@ -1,9 +1,17 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
+    <option name="cascadeOnboardingCompleted" value="true" />
+    <option name="completedCascadeOnboardingItems">
+      <list>
+        <option value="ONBOARDING_ACTION_TYPE_CHAT" />
+      </list>
+    </option>
+    <option name="firstInstall" value="false" />
     <option name="hasShownNewCompletionApiNotification" value="true" />
+    <option name="hasShownPreReleaseNotification" value="true" />
     <option name="hasShownZoomNotification" value="true" />
     <option name="installationId" value="8d5d9645-1832-42b6-829f-aea59b321bd8" />
-    <option name="lastChangelogVersionShown" value="2.10.7" />
+    <option name="lastChangelogVersionShown" value="2.12.2" />
     <option name="loggedFirstInstall" value="true" />
   </component>
 </application>
